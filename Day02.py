@@ -1,8 +1,7 @@
-
 # We use Print statement for Display information.
 print("Hi")
 
-print("Hello world") #Try comment in same line.
+print("Hello world")  # Try comment in same line.
 
 """
 I'm Try to write comment
