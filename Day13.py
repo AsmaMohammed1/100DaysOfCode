@@ -45,7 +45,5 @@ FloatList.reverse()
 print('List with reverse: ', FloatList)
 
 
-
-
 #userInput = list(map(str,input("enter five number").split()))
 
